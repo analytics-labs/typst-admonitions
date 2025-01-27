@@ -1,0 +1,7 @@
+[package]
+name = "typst-admonitions"
+version = "0.0.1"
+entrypoint = "lib.typ"
+authors = ["Greg"]
+license = "MIT"
+description = "Asciidoctor-like admonitions for Typst."
